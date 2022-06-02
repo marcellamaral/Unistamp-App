@@ -30,7 +30,7 @@ class UnistampHistoryPage extends StatelessWidget {
                       ),
                     ),
                     const SizedBox(
-                      height: 10,
+                      height: 9,
                     ),
                     const Text(
                         'Qualidade em cortes, dobras e conformação de metais')
